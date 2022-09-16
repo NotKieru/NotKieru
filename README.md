@@ -1,4 +1,4 @@
-### Olá, sou Isequiel Nascimento, estudante de engenharia da computação no IFCE
+### Hello, I'm Isequiel Nascimento, student of computer engineering at IFCE
 
 
 - 🔭 Currently working with frontend
