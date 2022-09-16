@@ -10,10 +10,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsequielNascimento&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-<div style="display: inline_block"><br>
- <img align="right" alt="Isequiel-pic" height="150" style="border-radius:50px;" src="blob:https://discord.com/671515cb-056d-4f02-a505-11c2e66cc819">
-</div>
-##
+ ##
 
 <div> 
   
