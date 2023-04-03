@@ -1,8 +1,8 @@
 ### Hello, I'm Isequiel Nascimento, student of computer engineering at IFCE
 
 
-- 🔭 Currently working with frontend
-- 🌱 Studying typescript and react
+- 🔭 Currently working with Mobile Development
+- 🌱 Currently studying Dart/Flutter
 
 [![Isequiel Nascimento GitHub stats](https://github-readme-stats.vercel.app/api?username=IsequielNascimento&show_icons=true&theme=radical)](https://github.com/IsequielNascimento/github-readme-stats)
 
