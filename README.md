@@ -4,8 +4,6 @@
 - 🔭 Currently working with Mobile Development
 - 🌱 Currently studying Dart/Flutter
 
-[![Isequiel Nascimento GitHub stats](https://github-readme-stats.vercel.app/api?username=IsequielNascimento&show_icons=true&theme=radical)](https://github.com/IsequielNascimento/github-readme-stats)
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IsequielNascimento&theme=radical)](https://git.io/streak-stats)
  ##
 
