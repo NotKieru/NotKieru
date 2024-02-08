@@ -1,4 +1,5 @@
-### Hello, I'm Isequiel Nascimento, student of computer engineering at IFCE
+### Hello, I'm Isequiel Nascimento, Computer engineering student at IFCE.
+I work with programs.
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IsequielNascimento&theme=radical)](https://git.io/streak-stats)
