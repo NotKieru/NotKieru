@@ -1,4 +1,4 @@
-### Hello, I'm Isequiel Nascimento, Computer engineering student at IFCE.
+### Computer engineering student at IFCE.
 I work with programs.
 
 
